@@ -1,0 +1,6 @@
+framework module Pods_FlixScrollTests {
+  umbrella header "Pods-FlixScrollTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

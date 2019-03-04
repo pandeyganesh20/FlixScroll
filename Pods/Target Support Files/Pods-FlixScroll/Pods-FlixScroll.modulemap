@@ -1,0 +1,6 @@
+framework module Pods_FlixScroll {
+  umbrella header "Pods-FlixScroll-umbrella.h"
+
+  export *
+  module * { export * }
+}

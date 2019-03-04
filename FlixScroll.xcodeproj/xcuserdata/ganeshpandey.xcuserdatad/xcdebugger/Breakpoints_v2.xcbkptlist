@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlixScroll/MovieCell.swift"
+            timestampString = "573373445.762861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MovieCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixScroll.MovieCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlixScroll.MovieCell"
+                  moduleName = "FlixScroll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshpandey/Desktop/Swift_Project/FlixScroll/FlixScroll/MovieCell.swift"
+                  timestampString = "572847998.321707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixScroll.MovieCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FlixScroll.MovieCell"
+                  moduleName = "FlixScroll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshpandey/Desktop/Swift_Project/FlixScroll/FlixScroll/MovieCell.swift"
+                  timestampString = "572847998.326262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixScroll.MovieCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixScroll.MovieCell&gt;"
+                  moduleName = "FlixScroll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshpandey/Desktop/Swift_Project/FlixScroll/FlixScroll/MovieCell.swift"
+                  timestampString = "572847998.328657"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixScroll.MovieCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FlixScroll.MovieCell&gt;"
+                  moduleName = "FlixScroll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshpandey/Desktop/Swift_Project/FlixScroll/FlixScroll/MovieCell.swift"
+                  timestampString = "572847998.330628"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlixScroll.MovieCell.__deallocating_deinit"
+                  moduleName = "FlixScroll"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganeshpandey/Desktop/Swift_Project/FlixScroll/FlixScroll/MovieCell.swift"
+                  timestampString = "572847998.332369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
